@@ -3,7 +3,7 @@ Making this change
 import os
 os.system("echo Hello from the otherside!")
 
-Im also making this change
+Stop adding things here
 
 #os.system("cd ~")
 
